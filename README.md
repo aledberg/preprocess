@@ -4,4 +4,4 @@ This repo contains Python scripts and data that demonstrates the toolchain descr
 
 The court data we process in the manuscript cannot be shared here due to that it contains sensitive personal material. To demonstrate the toolchain I have included openly available public data from consultation responses (remisssvar) related to
 SOU 2023:62, a Swedish Governement Official Report from the Drug Commission of Inquiry.
-The data in PDF-from can be found here: https://www.regeringen.se/remisser/2024/01/remiss-sou-202362-vi-kan-battre-kunskapsbaserad-narkotikapolitik-med-liv-och-halsa-i-fokus/, but text version (pdftotext) are available in the directort remiss.
+The data in PDF-from can be found here: https://www.regeringen.se/remisser/2024/01/remiss-sou-202362-vi-kan-battre-kunskapsbaserad-narkotikapolitik-med-liv-och-halsa-i-fokus/, but text version (pdftotext) are available in the remiss directory. To run the Python scripts you will need to download these files as well.
